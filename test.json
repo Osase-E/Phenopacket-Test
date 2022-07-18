@@ -1,0 +1,56 @@
+[
+    {
+      "id": "PPKT:1",
+      "subject": {
+        "id": "Bob",
+        "dateOfBirth": "1966-02-02T02:26:42Z",
+        "sex": "MALE"
+      },
+      "phenotypicFeatures": [
+        {
+          "type": {
+            "id": "HG2G:00001",
+            "label": "Hoopy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PPKT:2",
+      "subject": {
+        "id": "Amber",
+        "dateOfBirth": "1967-02-02T02:26:42Z",
+        "sex": "FEMALE"
+      },
+      "phenotypicFeatures": [
+        {
+          "type": {
+            "id": "HG2G:00002",
+            "label": "Hoop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PPKT:3",
+      "subject": {
+        "id": "Person",
+        "dateOfBirth": "1965-02-02T02:26:42Z",
+        "sex": "FEMALE"
+      },
+      "phenotypicFeatures": [
+        {
+          "type": {
+            "id": "HG2G:00001",
+            "label": "Hoopy"
+          }
+        },
+        {
+          "type": {
+            "id": "HG2G:00002",
+            "label": "Hoop"
+          }
+        }
+      ]
+    }
+  ]
